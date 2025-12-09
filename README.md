@@ -33,4 +33,5 @@ My favorite project so far is the [SHOP](https://shop-livid-rho.vercel.app/) a b
 * I use Firefox for wathcing movies and anime
 * I prefer simple explanations
 * I learn step by step
+  
 Always learning, always building. ✨
