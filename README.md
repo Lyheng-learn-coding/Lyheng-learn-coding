@@ -9,10 +9,6 @@ I'm **Lyheng**, a web development learner who enjoys building projects
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,typescript,nodejs,express,postgres,mysql,&theme=dark)
 
 
-### Tools I Use
-
-![My Skills](https://skillicons.dev/icons?i=postman,vercel,render&theme=light)
-
 
 ### Previously Learned Technologies
 
